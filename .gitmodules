@@ -1,0 +1,3 @@
+[submodule "AICity2020-Anomaly-Detection"]
+	path = AICity2020-Anomaly-Detection
+	url = git@github.com:Mandroide/AICity2020-Anomaly-Detection.git
